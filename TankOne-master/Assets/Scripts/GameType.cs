@@ -38,7 +38,7 @@ public class GameType : MonoBehaviour
     private void FriendCallback()
     {
 
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("bsjpciqholc3ke7h25",
             (bol) => {
                 if (bol)
                 {

@@ -124,7 +124,7 @@ public class ScreenTransController : MonoBehaviour
             WinnerPanel.Instance.Show();
             SoundManager.Instance.PlayHomeBackground();
         }
-        ShowInterstitialAd("1lcaf5895d5l1293dc",
+        ShowInterstitialAd("29godvm0htif5d19d3",
             () => {
                 Debug.LogError("--插屏广告完成--");
 

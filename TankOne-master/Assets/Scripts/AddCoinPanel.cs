@@ -23,7 +23,7 @@ public class AddCoinPanel : MonoBehaviour
     }
     public void AddCoins()
     {
-        ShowVideoAd("192if3b93qo6991ed0",
+        ShowVideoAd("bsjpciqholc3ke7h25",
             (bol) => {
                 if (bol)
                 {
